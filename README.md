@@ -1,6 +1,6 @@
 # What is a BTC-Clipper -
 
-BTC Clipper is a malware that replace that monitors the victim clipboard and wait for him to copy a BTC wallet address.
+BTC Clipper is a malware that monitors the victim clipboard and wait for him to copy a BTC wallet address.
 As soon as it detects the victim copied a bitcoin wallet address it will replace the address with the attacker address.
 This type of malware can cause the victim to send the attacker address to receive payments insted of his address.
 
