@@ -12,6 +12,11 @@ You will need a c++ compailer like g++.
 ```bash
 g++ bitcoinClipper.cpp -o bitcoinClipper.exe
 ```
+# Usage -
+
+```bash
+bitcoinClipper.exe {attacker_bitcoin_wallet}
+```
 
 # Disclaimer -
 This project is for educational purposes only, I am not responsible for any kind of abuse.
