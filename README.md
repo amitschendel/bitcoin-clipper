@@ -13,5 +13,8 @@ You will need a c++ compailer like g++.
 g++ bitcoinClipper.cpp -o bitcoinClipper.exe
 ```
 
+# Demo -
+![Demo](https://imgur.com/qhqrpBH)
+
 # Disclaimer -
 This project is for educational purposes only, I am not responsible for any kind of abuse.
