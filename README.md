@@ -14,7 +14,7 @@ g++ bitcoinClipper.cpp -o bitcoinClipper.exe
 ```
 
 # Demo -
-![Demo](https://imgur.com/qhqrpBH)
+![Demo](https://i.imgur.com/qxN0HvT.gif)
 
 # Disclaimer -
 This project is for educational purposes only, I am not responsible for any kind of abuse.
